@@ -1,0 +1,41 @@
+{
+  "acknowledgments": [
+    {
+      "person": "Prashanna Sathiyamoorthy - Cyber Secuity and data Analyst",
+      "link": "",
+      "note": "Thank you for all the advice and feedback."
+    },
+    {
+      "person": "Vercel - Platform",
+      "link": "https://vercel.com/docs",
+      "note": "Host your own Next.js project for free!"
+    }
+  ],
+
+  "links": [
+    {
+      "person": "Sidemen",
+      "link": "https://www.youtube.com/sidemen",
+      "note": "Best UK Youtuber Group."
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://medium.com/@Ratheshan03",
+      "icon": "medium"
+    },
+    {
+      "url": "https://twitter.com/Ratheshan_03",
+      "icon": "twitter"
+    },
+    {
+      "url": "https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/Ratheshan03/",
+      "icon": "github"
+    }
+  ]
+}
