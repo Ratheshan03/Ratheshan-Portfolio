@@ -60,7 +60,7 @@ export default function Technical() {
               list={software}
               block="software"
               fullContainer="fullContainer"
-              icon="grid-2-plus"
+              icon="code"
               containerClass={about.container}
               headerIcon={about.icon}
             />
@@ -70,7 +70,7 @@ export default function Technical() {
               list={OtherTools}
               block="software"
               fullContainer="fullContainer"
-              icon="grid-2-plus"
+              icon="hammer"
               containerClass={about.container}
               headerIcon={about.icon}
             />

@@ -70,6 +70,10 @@ $background: --background-dim2;
       color: var(--primary-dim);
     }
 
+    p {
+      font-size: 2px;
+    }
+
     &:before {
       content: "";
       position: absolute;

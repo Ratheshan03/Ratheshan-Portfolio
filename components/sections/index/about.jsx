@@ -30,7 +30,7 @@ export default function About() {
         <SectionTitle
           title="About Me"
           preTitle="Synopsis"
-          subTitle="With a diverse skill set that includes UI/UX design, full stack development, DevOps engineering, Data science Researching and cloud computing, I am a well-rounded digital professional."
+          subTitle="With a diverse skill set that includes UI/UX design, full stack development, DevOps engineering, Data science and Cloud computing, I am a well-rounded digital professional."
         />
         <section className={about.content}>
           <div className={about.image}>
@@ -43,8 +43,10 @@ export default function About() {
               containerClass={about.container}
               iconClass={about.icon}
               icon={["fat", "graduation-cap"]}
-              copy=""
-              description=""
+              copy="● BSc. (Hons) Computer Science  [ Sep 2020 -  May 2024 ]"
+              description="IIT Campus, Sri Lanka affiliated with the University of Westminster, London"
+              copy2="● Primary and Secondary Education  [ Jan 2006 - Aug 2019 ] "
+              description2="St.Anthony’s College, Kandy, Sri Lanka"
             />
             <BadgesBlock
               title="Key Softskills for Success"

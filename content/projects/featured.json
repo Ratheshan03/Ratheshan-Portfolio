@@ -1,10 +1,10 @@
 [
   {
-    "project": "My Supply Co.",
-    "url": "https://mysupplyco.com",
+    "project": "Notion FL.",
+    "url": "https://github.com/Ratheshan03/NotionFL",
     "repo": "Private",
-    "descriptionTitle": "D2C & B2B ecommerce site and blog",
-    "description": "with elegant solutions for a complex codebase and customer journey.",
+    "descriptionTitle": "Final Year Project",
+    "description": "An Explainable Mediator for Trustworthy Cross-silo Federated Learning. (on-Progress)",
     "imageOptions": [],
     "images": [
       {
@@ -30,22 +30,20 @@
       }
     ],
     "stack": [
-      { "key": "php", "name": "PHP", "type": "devicon" },
-      { "key": "mysql", "name": "mySQL", "type": "devicon" },
-      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
-      { "key": "jquery", "name": "jQuery", "type": "devicon" },
-      { "key": "woocommerce", "name": "WooCommerce", "type": "devicon" },
-      { "key": "wordpress", "name": "Wordpress", "type": "devicon" },
-      { "key": "html5", "name": "HTML5", "type": "devicon" },
-      { "key": "css3", "name": "CSS3", "type": "devicon" },
-      { "key": "sass", "name": "SCSS", "type": "devicon" },
-      { "key": "git", "name": "Git(Hub)", "type": "devicon" },
-      { "key": "google", "name": "GA4/GTM/EEC", "type": "devicon" }
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "python", "name": "Python", "type": "devicon" },
+      { "key": "matplotlib", "name": "Matplotlib", "type": "devicon" },
+      { "key": "flask", "name": "Flask", "type": "devicon" },
+      { "key": "fsharp", "name": "ShapleyValues", "type": "devicon" },
+      { "key": "tensorflow", "name": "Tensorflow", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwind", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
     ]
   },
   {
-    "project": "andrewnelson.net",
-    "url": "https://github.com/atlamors/portfolio",
+    "project": "Ratheshan Portfolio",
+    "url": "https://github.com/Ratheshan03/Ratheshan-Portfolio",
     "repo": "Public",
     "descriptionTitle": "An open source portfolio",
     "description": "built on Next.js and React. A fast and agile MERN stack single page application.",
@@ -68,6 +66,7 @@
       { "key": "html5", "name": "HTML5", "type": "devicon" },
       { "key": "css3", "name": "CSS3", "type": "devicon" },
       { "key": "sass", "name": "SCSS", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwind CSS", "type": "devicon" },
       { "key": "git", "name": "Git(Hub)", "type": "devicon" }
     ]
   }
