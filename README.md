@@ -2,8 +2,7 @@
 
 #### Next & App Architecure
 
-- [ ] Next.js v13
-- [ ] Sanity.io
+- [x] Next.js v13
 
 #### Pages
 
@@ -17,10 +16,6 @@
 - [x] Pages\Articles\Medium\API
 - [ ] Pages\Articles\Dev.to\API
 
-#### Projects Page
-
-- [ ] Pages\Projects\Project : Single project details page
-
-## Please fork this repo! 🦄
+## Fork and Star this repo!
 
 Fork, Install, Editing, and Deploy instructions coming soon(ish)!
