@@ -12,21 +12,21 @@
         "hover": "right",
         "h": "1200",
         "w": "556",
-        "url": "/img/msc-mock_stack/03.png"
+        "url": "/img/msc-mock_stack/image2.png"
       },
       {
         "key": "mock-stack",
         "hover": "right",
         "h": "1200",
         "w": "556",
-        "url": "/img/msc-mock_stack/02.png"
+        "url": "/img/msc-mock_stack/01.png"
       },
       {
         "key": "mock-stack",
         "hover": "left",
         "h": "1200",
         "w": "556",
-        "url": "/img/msc-mock_stack/01.png"
+        "url": "/img/msc-mock_stack/image1.png"
       }
     ],
     "stack": [
@@ -54,7 +54,7 @@
         "hover": "left",
         "h": "797",
         "w": "556",
-        "url": "/img/portfolio-mock_single.png"
+        "url": "/img/msc-mock_stack/image3.png"
       }
     ],
     "stack": [
